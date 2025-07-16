@@ -1,6 +1,6 @@
-## Hi, fancy meeting you here 👋 <br /> I am Gian 
+## Hi, fancy meeting you here 👋 <br /> I am GII 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RsdnR5bXFmODllOWo2ZWV0cHJ1dnAwamNjcG5rMTFjdTU3MGd1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="230"  align='right'  />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"  width="210"  align='right'  />
 
 <p>
 :octocat: I am a Software Engineer based in the Philippines with expertise in web development using React, Next.js, Python, and Azure DevOps. 
@@ -8,7 +8,7 @@
 I specialize in building high-performance, secure, and scalable applications, with a strong focus on performance optimization, secure deployments, and designing robust system architectures. Passionate about clean code and continuous learning, I strive to deliver efficient solutions that drive business value and enhance user experience.
 </p>
 
-<br/>
+<br /> <br />
 
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
